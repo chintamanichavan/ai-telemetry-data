@@ -1,0 +1,38 @@
+org_id,name,country,type,parent_org_id,source,source_url,observed_at,source_at,valid_from,valid_to,definition_version
+cursor,Cursor,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+deepseek,DeepSeek,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+z-ai-zhipu-ai,Z.ai (Zhipu AI),,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+moonshot,Moonshot,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+lg-ai-research,LG AI Research,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+allen-institute-for-ai,Allen Institute for AI,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+ant-group,Ant Group,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+z-ai-zhipu-ai-tsinghua-university,"Z.ai (Zhipu AI),Tsinghua University",,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+alibaba,Alibaba,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+meituan-inc,Meituan Inc,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+openai,OpenAI,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+xai,xAI,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+bytedance,ByteDance,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+huawei,Huawei,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+meta-ai,Meta AI,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+tencent,Tencent,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+anthropic,Anthropic,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+amazon,Amazon,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+nvidia,NVIDIA,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+01-ai,01.AI,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+china-telecom,China Telecom,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+bytedance-nanyang-technological-university-chinese-university-of-hong-kong-cuhk-hong-kong-university-of-science-and-technology-hkust,"ByteDance,Nanyang Technological University,Chinese University of Hong Kong (CUHK),Hong Kong University of Science and Technology (HKUST)",,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+apple,Apple,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+mistral-ai,Mistral AI,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+evolutionaryscale-university-of-california-uc-berkeley,"EvolutionaryScale,University of California (UC) Berkeley",,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+nvidia-meta-ai,"NVIDIA,Meta AI",,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+saudi-data-and-artificial-intelligence-authority,Saudi Data and Artificial Intelligence Authority,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+reka-ai,Reka AI,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+databricks,Databricks,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+inflection-ai,Inflection AI,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+saudi-aramco,Saudi Aramco,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+bytedance-peking-university,"ByteDance,Peking University",,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+google-deepmind,Google DeepMind,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+technology-innovation-institute,Technology Innovation Institute,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+google,Google,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+google-research,Google Research,,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
+baidu-peng-cheng-laboratory,"Baidu,Peng Cheng Laboratory",,,,epoch_ai,https://epoch.ai/data/notable-ai-models,2026-05-25T17:22:05Z,,2026-05-25T17:22:05Z,,v1.0
