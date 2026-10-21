@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Telemetry — Frontier AI capability, evaluation, and incident data</title>
+<meta name="description" content="A public, point-in-time-revisioned dataset of frontier AI models, organizations, evaluations, and incidents.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="container">
+    <h1>AI Telemetry</h1>
+    <p class="tagline">A public, point-in-time-revisioned dataset of frontier AI models,
+      organizations, evaluations, and incidents.</p>
+    <p class="meta">
+      Methodology <a href="../METHODOLOGY.md">v1.0</a>
+      &nbsp;·&nbsp; <span id="updated">Updated &mdash;</span>
+      &nbsp;·&nbsp; Data: <a href="../data/models.csv">models.csv</a>,
+        <a href="../data/orgs.csv">orgs.csv</a>
+      &nbsp;·&nbsp; <a href="https://github.com/ai-telemetry/data">GitHub</a>
+    </p>
+  </div>
+</header>
+
+<main class="container">
+
+  <section class="panel">
+    <header>
+      <h2>Training compute over time</h2>
+      <p class="caption" id="compute-caption">&mdash;</p>
+    </header>
+    <div id="compute-chart" class="chart"></div>
+    <p class="legend">
+      <span class="dot dot-frontier"></span> frontier (&ge; 10<sup>25</sup> FLOP)
+      &nbsp;&nbsp;
+      <span class="dot dot-notable"></span> notable (&ge; 10<sup>24</sup> FLOP)
+    </p>
+  </section>
+
+  <section class="panel">
+    <header>
+      <h2>Notable model releases by quarter</h2>
+      <p class="caption" id="releases-caption">&mdash;</p>
+    </header>
+    <div id="releases-chart" class="chart"></div>
+  </section>
+
+  <section class="panel">
+    <header>
+      <h2>Organizations by frontier model count</h2>
+      <p class="caption">Frontier definition stamped <code>v1.0</code>.
+        Ties broken by most recent frontier release.</p>
+    </header>
+    <div id="orgs-table" class="table-wrap"></div>
+  </section>
+
+</main>
+
+<footer class="container">
+  <p>
+    Data licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC&nbsp;BY&nbsp;4.0</a>.
+    Site code <a href="https://opensource.org/licenses/MIT">MIT</a>.
+    Cite as: <code>AI Telemetry (2026). v1.0. aitelemetry.org</code>.
+  </p>
+  <p>
+    Single-curator, best-effort cadence. Known limitations in
+    <a href="../METHODOLOGY.md">§10</a>.
+  </p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
